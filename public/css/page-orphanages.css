@@ -70,7 +70,7 @@ a.create-orphanage:hover {
 
 .leaflet-popup-content {
     color: #0089A5;
-    font-weight: 600;
+    font-weight: 800;
     margin: .8rem 1.2rem;
 
     display: flex;
